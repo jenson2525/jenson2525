@@ -11,7 +11,7 @@
     <td valign="top" align="center">
       <img src="https://streak-stats.demolab.com?user=jenson2525&hide_border=true" alt="GitHub Streak"/>
       <br/><br/>
-      <h1>Tech Stack</h1>
+      <p align="left"><h1>Tech Stack</h1>
       <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
     </td>
     <td valign="top">
