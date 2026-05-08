@@ -10,13 +10,13 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <div align="center">
-        <img src="https://streak-stats.demolab.com?user=jenson2525&hide_border=true" alt="GitHub Streak"/>
-      </div>
-      <br/>
-      <h1> Tech Stack </h1>
-      <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
+    <td valign="top" align="center">
+      <img src="https://streak-stats.demolab.com?user=jenson2525" alt="GitHub Streak"/>
+      <br/><br/>
+      <p align="left"><strong> Tech Stack </strong></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
+      </a>
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/jenson2525/jenson2525/main/github-metrics.svg" alt="GitHub Metrics"/>
