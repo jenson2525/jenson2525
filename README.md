@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td valign="center" align="center">
+    <td valign="top" align="center">
       <img src="https://streak-stats.demolab.com?user=jenson2525" alt="GitHub Streak"/>
       <br/><br/>
       <p align="left"><strong> Tech Stack </strong></p>
@@ -21,6 +21,7 @@
       </a>
     </td>
     <td valign="center">
+      <br>
       <img src="https://raw.githubusercontent.com/jenson2525/jenson2525/main/github-metrics.svg" alt="GitHub Metrics"/>
     </td>
   </tr>
