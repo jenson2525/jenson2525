@@ -11,10 +11,8 @@
     <td valign="top" align="center">
       <img src="https://streak-stats.demolab.com?user=jenson2525&hide_border=true" alt="GitHub Streak"/>
       <br/><br/>
-      <h3>Tech Stack</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
-      </a>
+      <h1>Tech Stack</h1>
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
     </td>
     <td valign="top">
       <img src="https://raw.githubusercontent.com/jenson2525/jenson2525/main/github-metrics.svg" alt="GitHub Metrics"/>
