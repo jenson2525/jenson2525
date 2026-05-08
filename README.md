@@ -8,9 +8,10 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <img src="https://streak-stats.demolab.com?user=jenson2525" alt="GitHub Streak"/>
+    <td valign="top" align="center">
+      <img src="https://streak-stats.demolab.com?user=jenson2525&hide_border=true" alt="GitHub Streak"/>
       <br/><br/>
+      <h3>Tech Stack</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
       </a>
