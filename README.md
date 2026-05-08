@@ -12,7 +12,7 @@
       <img src="https://streak-stats.demolab.com?user=jenson2525" alt="GitHub Streak"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/jenson2525/jenson2525/github-metrics/languages.indepth.svg" alt="Top Languages"/>
+      <img src="https://cdn.jsdelivr.net/gh/jenson2525/jenson2525/github-metrics.svg" alt="Top Languages"/>
     </td>
   </tr>
 </table>
