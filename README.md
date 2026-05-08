@@ -6,7 +6,7 @@
 
 <img src="ktn_2.png" width="22%"/> <img src="ktn_3.png" width="22%"/> <img src="ktn_4.png" width="22%"/> <img src="ktn_5.png" width="22%"/>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="https://streak-stats.demolab.com?user=jenson2525" alt="GitHub Streak"/>
