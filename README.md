@@ -17,7 +17,7 @@
       <br>
       <br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,react,python,redis,idea,vscode&perline=6" />
       </a>
     </td>
     <td valign="top">
