@@ -8,11 +8,15 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <img src="https://streak-stats.demolab.com?user=jenson2525" alt="GitHub Streak"/>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
+      </a>
     </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/jenson2525/jenson2525/github-metrics.svg" alt="Top Languages"/>
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/jenson2525/jenson2525/main/github-metrics.svg" alt="GitHub Metrics"/>
     </td>
   </tr>
 </table>
