@@ -14,6 +14,8 @@
       <img src="https://streak-stats.demolab.com?user=jenson2525" alt="GitHub Streak"/>
       <br/><br/>
       <p align="left"><strong> Tech Stack </strong></p>
+      <br>
+      <br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,docker,ts,electron,js,react,python,pytorch&perline=6" />
       </a>
